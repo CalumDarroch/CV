@@ -28,11 +28,11 @@ Skills I hope to develop while on the full-time course on site:
 
 **LLM Intellectual Property Law - Distinction**
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+For my Masters degree I chose to study intellectual property, with a particular interest in copyright and patent law. My second dissertation, *Problems and Progress in the Protection of Video Games*, was published in the University of Manchester Law Review.
 
 **LLB Law - 2:1**
+
+My undergraduate degree covered a broad range of topics, but my main areas of interest were intellectual property and law and ethics in war and warfare. The latter covered many broadly applicable logical and philosophical concepts, particularly involving decision-making and game theory.
 
 #### Any other qualifications
 
