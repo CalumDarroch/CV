@@ -1,50 +1,67 @@
-## Your Name
+## Calum Darroch
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I am an ex-actor and screenwriter who in late 2018 decided to radically change my career. In 2019 I signed up to Makers Academy to try my hand at computer programming - I've always loved to make things, and thought coding would be a great way to scratch that itch. After graduation from Makers in June, I hope to secure a job as a junior developer.
 
 ## Skills
 
-#### This Skill
+#### Creative problem-solving
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+As a writer I have noticed many parallels between creative writing and coding. I always approach any kind of writing as a problem to be solved, and have spent a lot of time working at my ability to brainstorm new and creative solutions to problems presented in my work.
 
-- Experience
-- Achievements
-- Evidence
+#### Communication and Presentation
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+In my recent work as an actor and a tour guide, these skills were (as you might imagine!) essential. The latter role in particular was very demanding in this department, as I was often leading large crowds of people around busy tourist hotspots in central London. The ability to not only communicate clearly to everyone, but also in a way that engaged everybody and allowed individuals to participate and have any questions answered, was something I was eager to develop. 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (March to June 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
+I am undertaking the Makers Academy course beginning April 2019, having spent the last month on the pre-course materials and having a lot of fun doing so! During the precourse I have been pleasantly surprised by the speed at which my understanding has developed, and have also had opportunities to try my hand at pair-programming with a few of my fellow students (both in-person and remotely).
 
+Skills I hope to develop while on the full-time course on site:
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### The University of Manchester (2007 to 2011)
+
+**LLM Intellectual Property Law - Distinction**
 
 - Subject, any specialisms
 - Grade
 - Other cool stuff
 
+**LLB Law - 2:1**
+
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Self-employed** (June 2015 to December 2018)    
+*Actor and Screenwriter*
+I have worked as an actor on both stage and screen. I have had lead roles in fringe theatre in Central London, in short films and have also done corporate and commercial work. I have also written a number of produced short films.
+
+**Self-employed** (May 2017 to November 2018)   
+*Tour guide*  
+I have worked both independently and with a number of tourism agencies (including AirBnB Experiences and Sandemans NewEurope) running walking tours in Central London.
+
+**Oxleas NHS Trust** (October 2014 to October 2016)
+*Administrator and Archivist*
+I had a specialized administrator role managing the transition of patient records from paper to digital.
+
+**Breaking Ground Films** (November 2012 to November 2014)
+*Script Editor*
+As an editor at a small film production company I was involved in many aspects of the business, and was often required to manage relationships between producers and writers.
+
+**Various Law Firms** (2012)
+*Intern*
+In 2012 I interned at a number of law firms, most notably *Grünecker, Kinkeldey, Stockmair & Schwanhäusser* in Munich, Germany for two months, and *Marriott Harrison* in London.
+
+**Student Money Saver Ltd.** (November 2009 to December 2011)
+*Property Head Editor*
+As editor I ran a six-man writing team producing content for the website. 
+
+**The University of Manchester Legal Advice Centre** (September 2008 to June 2010)
+*Student Advisor and Administrator*
+I worked pro bono as an advisor for two years, giving free legal advice to those that were otherwise unable to afford paid advice or access government services. From September 2009 I also undertook the role of student administrator and was jointly responsible for running the practice.
