@@ -34,7 +34,10 @@ For my Masters degree I chose to study intellectual property, with a particular 
 
 My undergraduate degree covered a broad range of topics, but my main areas of interest were intellectual property and law and ethics in war and warfare. The latter covered many broadly applicable logical and philosophical concepts, particularly involving decision-making and game theory.
 
-#### Any other qualifications
+#### Other Qualifications
+
+**The Impulse Company**
+I have a qualification in the Meisner technique from Impulse, an actor's company run by Scott Williams in London. The training lasted a full year and I graduated in December 2016.
 
 ## Experience
 
