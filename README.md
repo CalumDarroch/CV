@@ -53,29 +53,29 @@ I have a qualification in the Meisner technique from Impulse, an actor's company
 ## Experience
 
 **Self-employed** (June 2015 to December 2018)    
-*Actor and Screenwriter*
+*Actor and Screenwriter*  
 I have worked as an actor on both stage and screen. I have had lead roles in fringe theatre in Central London, in short films and have also done corporate and commercial work. I have also written a number of produced short films.
 
 **Self-employed** (May 2017 to November 2018)   
 *Tour guide*  
 I have worked both independently and with a number of tourism agencies (including AirBnB Experiences and Sandemans NewEurope) running walking tours in Central London.
 
-**Oxleas NHS Trust** (October 2014 to October 2016)
-*Administrator and Archivist*
+**Oxleas NHS Trust** (October 2014 to October 2016)  
+*Administrator and Archivist*  
 I had a specialized administrator role managing the transition of patient records from paper to digital.
 
-**Breaking Ground Films** (November 2012 to November 2014)
-*Script Editor*
+**Breaking Ground Films** (November 2012 to November 2014)  
+*Script Editor*  
 As an editor at a small film production company I was involved in many aspects of the business, and was often required to manage relationships between producers and writers.
 
-**Various Law Firms** (2012)
-*Intern*
+**Various Law Firms** (2012)  
+*Intern*  
 In 2012 I interned at a number of law firms, most notably *Grünecker, Kinkeldey, Stockmair & Schwanhäusser* in Munich, Germany for two months, and *Marriott Harrison* in London.
 
-**Student Money Saver Ltd.** (November 2009 to December 2011)
-*Property Head Editor*
+**Student Money Saver Ltd.** (November 2009 to December 2011)  
+*Property Head Editor*  
 As editor I ran a six-man writing team producing content for the website. 
 
-**The University of Manchester Legal Advice Centre** (September 2008 to June 2010)
-*Student Advisor and Administrator*
+**The University of Manchester Legal Advice Centre** (September 2008 to June 2010)  
+*Student Advisor and Administrator*  
 I worked pro bono as an advisor for two years, giving free legal advice to those that were otherwise unable to afford paid advice or access government services. From September 2009 I also undertook the role of student administrator and was jointly responsible for running the practice.
