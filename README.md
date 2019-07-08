@@ -10,8 +10,8 @@ I am an ex-actor and screenwriter who in late 2018 decided to radically change m
 
 Project | Description | Development Timeframe | Tech Stack | CI/CD/Testing |
 ------- | ----------- | --------------------- | ---------- | ------------- |
-[StarGazer](https://github.com/CalumDarroch/stargazer) | An augmented reality iOS app, this allows you to see the stars on your phone. | 2 weeks | Swift, XCode | Quick, Nimble
-[Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) | A Facebook clone | 2 weeks | Ruby on Rails | Travis, Heroku, Codeacy
+[StarGazer](https://github.com/CalumDarroch/stargazer) | An augmented reality iOS app, this allows you to see the stars on your phone. | 2 weeks | Swift, XCode (ARKit, SceneKit, UIKit) | Quick, Nimble, Carthage, Codacy
+[Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) | A Facebook clone | 2 weeks | Ruby on Rails, PostgreSQL, JQuery, HTML/CSS | RSpec, Capybara, Travis, Heroku, Codacy
 
 ## Skills
 
