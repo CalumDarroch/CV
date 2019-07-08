@@ -25,7 +25,7 @@ In my recent work as an actor and a tour guide, these skills were (as you might 
 
 ## Education
 
-#### Makers Academy (March to June 2019)
+### Makers Academy (March to June 2019)
 
 I am undertaking the Makers Academy course beginning April 2019, having spent the last month on the pre-course materials and having a lot of fun doing so! During the precourse I have been pleasantly surprised by the speed at which my understanding has developed, and have also had opportunities to try my hand at pair-programming with a few of my fellow students (both in-person and remotely).
 
@@ -35,7 +35,7 @@ Skills I hope to develop while on the full-time course on site:
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### The University of Manchester (2007 to 2011)
+### The University of Manchester (2007 to 2011)
 
 **LLM Intellectual Property Law - Distinction**
 
@@ -45,9 +45,9 @@ For my Masters degree I chose to study intellectual property, with a particular 
 
 My undergraduate degree covered a broad range of topics, but my main areas of interest were intellectual property and law and ethics in war and warfare. The latter covered many broadly applicable logical and philosophical concepts, particularly involving decision-making and game theory.
 
-#### Other Qualifications
+### Other Qualifications
 
-**The Impulse Company**
+**The Impulse Company**  
 I have a qualification in the Meisner technique from Impulse, an actor's company run by Scott Williams in London. The training lasted a full year and I graduated in December 2016.
 
 ## Experience
