@@ -8,9 +8,9 @@ I am an ex-actor and screenwriter who in late 2018 decided to radically change m
 
 ## Projects
 
-Project | Description | Tech Stack | GitHub Link
-------- | ----------- | ---------- | -----------
-StarGazer App | An augmented reality iOS app, this allows you to see the stars on your phone. | Swift, XCode | https://github.com/CalumDarroch/stargazer
+Project | Description | Development Timeframe | Tech Stack | CI/CD/Testing |
+------- | ----------- | --------------------- | ---------- | ------------- |
+[StarGazer](https://github.com/CalumDarroch/stargazer) | An augmented reality iOS app, this allows you to see the stars on your phone. | 2 weeks | Swift, XCode | Quick, Nimble
 
 ## Skills
 
