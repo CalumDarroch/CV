@@ -14,6 +14,12 @@ I am a recent graduate of [Makers Academy](https://makers.tech/) in London. An e
 
 ## Background
 
+After graduating from my masters degree in Intellectual Property Law in December 2011, I pursued a career as a lawyer for around two years before deciding I wanted to do something more creatively challenging. Over that time I learned that I was poorly suited to the rigid working environment of a corporate law firm, and with opportunity thin on the ground I decided to make the leap into a career in the arts.
+
+Over the course of five years I pursued writing and acting for stage and screen, taking on many different jobs in order to make ends meet and to pay for classes, workshops and training. I ended up working in roles as diverse as waitering, NHS administration and private history tour guiding in London, all while writing plays/screnplays and auditioning for acting roles. Over that time I was successful in gaining paid roles in fringe theatre, short films and some TV and commercial work, as well as securing representation from two agencies and gaining certified listings with Equity and Spotlight - something that is notoriously difficult for actors who have not attended a 3 year programme at a drama school.
+
+Ultimately, however, in early 2019 I decided it was time for me to change direction again. The hectic and insecure working conditions of the arts were something I felt no longer served me and the direction I saw my life going in, and despite my enjoyment of the work I had been fortunate enough to be involved in thus far, I felt as though my work lacked intellectual challenge. Although initially I felt overwhelmed by the thought of starting another career from scratch and the myriad of options that were available, I soon settled on software development as a discipline that fulfilled everything I was looking for in a job: challenge, creativity, the chance to work in an innovative and rapidly changing industry, and the opportunity to master a technical skill. With that in mind, I took the leap and signed up for Makers April chohort and haven't looked back!
+
 ## Projects
 
 Project | Description | Development Timeframe | Tech Stack | CI/CD/Testing |
