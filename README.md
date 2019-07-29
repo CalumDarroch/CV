@@ -23,9 +23,11 @@ Ultimately, however, in early 2019 I decided it was time for me to change direct
 ## Projects
 
 Project | Description | Development Timeframe | Tech Stack | CI/CD/Testing |
--------:|:-----------:|:---------------------:|:----------:|:-------------:|
+:------:|:-----------:|:---------------------:|:----------:|:-------------:|
 [StarGazer](https://github.com/CalumDarroch/stargazer) | This was my final group engineering project for the Makers course. An augmented reality iOS app, it allows you to see the positions of major stars and planets on your phone. This was a very difficult challenge; as a small team of four we had to learn a completely new tech stack over the two weeks, using an unfamiliar IDE and working on mobile for the first time, all while using agile best practices. The app was a huge success at the careers fair and we were very happy with the results! You can see it in action [here](https://youtu.be/2mJJrip4emc). | 2 weeks | Swift, XCode (ARKit, SceneKit, UIKit) | Quick, Nimble, Carthage, Codacy, XCode CI
-[Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) | A Facebook clone completed during the course, as a team of five we worked to build a simple social networking site under the direction of the course coaches. We used this as an opportunity to experiment with different ways of working, such as sprinting, mobbing, pairing and various aspects of agile development and extreme programming. This was also our first experience using a web-application framework - here Ruby on Rails - and working with CI/CD. Our site is hosted on Heroku [here](https://secret-forest-11009.herokuapp.com/). | 2 weeks | Ruby on Rails, PostgreSQL, JQuery, HTML/CSS | RSpec, Capybara, Travis, Heroku, Codacy
+[Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) | A Facebook clone completed during the course, as a team of five we worked to build a simple social networking site under the direction of the course coaches. We used this as an opportunity to experiment with different ways of working, such as sprinting, mobbing, pairing and various aspects of agile development and extreme programming. This was also our first experience using a web-application framework - here Ruby on Rails - and working with CI/CD. Our site is hosted on Heroku [here](https://secret-forest-11009.herokuapp.com/). | 2 weeks | Ruby on Rails, PostgreSQL, jQuery, HTML/CSS | RSpec, Capybara, Travis, Heroku, Codacy
+[MakersBnB](https://github.com/CalumDarroch/MakersBnB) | A short group challenge to build a clone of AirBnB, our small team of four decided to attempt it in JavaScript having only begun learning it the previous week! | 1 week | JavaScript, jQuery, Node.js, PostgreSQL, HTML/CSS | Jasmine, Nightwatch, Cypress
+Reversi Terminal Game | An ongoing personal project, with the object of learning Python and its testing frameworks, as well as more complex back-end logic | Ongoing | Python | Unittest
 
 ## Skills
 
@@ -39,15 +41,20 @@ In my recent work as an actor and a tour guide, these skills were (as you might 
 
 ## Education
 
-### Makers Academy (March to June 2019)
+### Makers Academy (March to July 2019)
 
-I am undertaking the Makers Academy course beginning April 2019, having spent the last month on the pre-course materials and having a lot of fun doing so! During the precourse I have been pleasantly surprised by the speed at which my understanding has developed, and have also had opportunities to try my hand at pair-programming with a few of my fellow students (both in-person and remotely).
+I undertook the Makers Academy course beginning April 2019, having spent a month previously on the pre-course materials and having a lot of fun doing so! Over the course I was often surprised by the speed at which my technical understanding developed, and was grateful for the opportunities for group work, collaboration and self-directed learning afforded by the work environment.
 
-Skills I hope to develop while on the full-time course on site:
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+Over my time on the course I have focused on developing the following skills:
+- Understanding the principles of object-oriented programming, domain modelling and the MVC architectural pattern.
+- Emphasis on best practices in process, especially TDD, pair-programming, extreme programming and agile/SCRUM methodologies.
+- Familiarity with two different OOP languages: Ruby and JavaScript.
+- Language agnosticism: learning the principles that underpin programming languages, so that I can pick up new languages and tech quickly.
+- A familiarity with testing framworks (such as RSpec and Jasmine).
+- CI/CD practices.
+- Integrating databases and APIs into apps.
+
+I passed my final process review in mid-July and am now signed-off by the coaches and careers team as having attained the standards expected of a junior software engineer.
 
 ### The University of Manchester (2007 to 2011)
 
