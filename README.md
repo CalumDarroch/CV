@@ -1,6 +1,14 @@
-# Calum Darroch
+<h1 align='center'>Calum Darroch</h1>
 
-[Background](https://github.com/CalumDarroch/CV/blob/master/README.md#background) | [Projects](https://github.com/CalumDarroch/CV/blob/master/README.md#projects) | [Skills](https://github.com/CalumDarroch/CV/blob/master/README.md#skills) | [Education](https://github.com/CalumDarroch/CV/blob/master/README.md#education) | [Experience](https://github.com/CalumDarroch/CV/blob/master/README.md#experience)
+<h3 align='center'>Junior Software Developer</h3>
+<h4 align="center">
+    <a href="#background">Background</a> |
+  <a href="#projects">Projects</a> |
+  <a href="#skills">Skills</a> |
+  <a href="#education">Education</a> |
+  <a href="#experience">Experience</a>
+</h4>
+<br>
 
 I am an ex-actor and screenwriter who in late 2018 decided to radically change my career. In 2019 I signed up to [Makers Academy](https://makers.tech/) to try my hand at computer programming - I've always loved to make things, and thought coding would be a great way to scratch that itch. Now having graduated from Makers at the end of June, I hope to secure a job as a junior developer.
 
