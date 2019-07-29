@@ -24,8 +24,8 @@ Ultimately, however, in early 2019 I decided it was time for me to change direct
 
 Project | Description | Development Timeframe | Tech Stack | CI/CD/Testing |
 ------- | ----------- | --------------------- | ---------- | ------------- |
-[StarGazer](https://github.com/CalumDarroch/stargazer) | An augmented reality iOS app, this allows you to see the stars on your phone. | 2 weeks | Swift, XCode (ARKit, SceneKit, UIKit) | Quick, Nimble, Carthage, Codacy
-[Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) | A Facebook clone | 2 weeks | Ruby on Rails, PostgreSQL, JQuery, HTML/CSS | RSpec, Capybara, Travis, Heroku, Codacy
+[StarGazer](https://github.com/CalumDarroch/stargazer) | This was my final group engineering project for the Makers course. An augmented reality iOS app, it allows you to see the positions of major stars and planets on your phone. This was a very difficult challenge; as a small team of four we had to learn a completely new tech stack over the two weeks, using an unfamiliar IDE and working on mobile for the first time, all while using agile best practices. The app was a huge success at the careers fair and we were very happy with the results! You can see it in action [here](https://youtu.be/2mJJrip4emc). | 2 weeks | Swift, XCode (ARKit, SceneKit, UIKit) | Quick, Nimble, Carthage, Codacy, XCode CI
+[Acebook](https://github.com/CalumDarroch/acebook-FiveGuys) | A Facebook clone completed during the course, as a team of five we worked to build a simple social networking site under the direction of the course coaches. We used this as an opportunity to experiment with different ways of working, such as sprinting, mobbing, pairing and various aspects of agile development and extreme programming. This was also our first experience using a web-application framework - here Ruby on Rails - and working with CI/CD. Our site is hosted on Heroku [here](https://secret-forest-11009.herokuapp.com/) | 2 weeks | Ruby on Rails, PostgreSQL, JQuery, HTML/CSS | RSpec, Capybara, Travis, Heroku, Codacy
 
 ## Skills
 
