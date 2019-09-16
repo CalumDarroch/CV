@@ -14,6 +14,7 @@ I am a recent graduate from [Makers Academy](https://makers.tech/)'s intensive p
 - I love building things and working with others to design, plan and execute projects.
 - I am passionate about the potential for technology to solve complex business, economic and social problems.
 - While I am creative, I am also logically-minded and drawn to learning technical skills.
+
 Software engineering was the perfect fit, and upon beginning the course I instantly found myself to be more engaged with and enthusiastic about it than anything in my diverse work history. After graduating from my masters degree in December 2011, I had previously pursued a career as a lawyer for two years before deciding I wanted to do something more creative, and going on to spend over five years pursuing writing and acting for stage and screen. In this time I worked in many different jobs - such as waitering, NHS administration and history tour guiding - in order to support myself and to pay for training. During the course the benefits of all this experience became much more clear to me, as I was often able to bring a novel perspective to engineering problems and view them in a more multi-faceted/holistic manner.
 
 ## Projects
