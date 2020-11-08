@@ -1,6 +1,6 @@
 <h1 align='center'>Calum Darroch</h1>
 
-<h3 align='center'>Junior Software Developer</h3>
+<h3 align='center'>Software Engineer</h3>
 <h4 align="center">
   <a href="#projects">Projects</a> |
   <a href="#skills">Skills</a> |
